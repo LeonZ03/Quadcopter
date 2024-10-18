@@ -1,0 +1,8 @@
+--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I ..\fwlib\inc -I ..\misis -I ..\task -I ..\ucos_II\Ports -I ..\ucos_II\Source -I ..\user -I ..\hardware
+-I.\RTE\Compiler
+-I.\RTE\_ucos_stm32f4
+-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include
+-IC:\Keil_v5\ARM\PACK\Keil\ARM_Compiler\1.7.0\Include
+-IC:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.17.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F407xx -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER
+-o .\objects\stm32f4xx_cec.o --omf_browse .\objects\stm32f4xx_cec.crf --depend .\objects\stm32f4xx_cec.d --feedback ".\Objects\ucos_stm32f4.fed" "..\fwlib\src\stm32f4xx_cec.c"

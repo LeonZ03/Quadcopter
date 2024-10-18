@@ -1,0 +1,26 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Mr.Zheng\Desktop\AD\Connector v3.1_zhong - ¸±±¾\Connector.PcbDoc
+Date     : 2023/5/28
+Time     : 16:01:33
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net TIM3_CH3 Between Pad LB-1(790mil,-120mil) on Multi-Layer And Track (570mil,200mil)(890mil,-120mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 5V Between Track (900mil,100mil)(1070mil,-70mil) on Bottom Layer And Pad RB-2(1120mil,-120mil) on Multi-Layer 
+Rule Violations :2
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 2
+Waived Violations : 0
+Time Elapsed        : 00:00:02

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=TIM3_CH3 Pin=CN1-34
+Removed Pin From Net: NetName=TIM3_CH1 Pin=CN2-13
+Removed Pin From Net: NetName=TIM3_CH2 Pin=CN2-15
+Removed Pin From Net: NetName=TIM3_CH4 Pin=CN2-24
+Added Pin To Net: NetName=TIM3_CH4 Pin=CN2-1
+Added Pin To Net: NetName=TIM3_CH3 Pin=CN2-2
+Added Pin To Net: NetName=TIM3_CH1 Pin=CN2-4
+Added Pin To Net: NetName=TIM3_CH2 Pin=CN2-19
+Added Room: Name=Connector

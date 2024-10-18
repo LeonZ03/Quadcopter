@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Connector.PcbDoc   2021/10/11  1:43:39
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Connector-RoundHoles.TXT
+ASCII SlotHoles File : Connector-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.203mm)                                            Round             5         PTH        0.00inch (0.00mm)
+T2      35mil (0.899mm)                                           Round             49        PTH        0.00inch (0.00mm)
+T3      40mil (1.016mm)                                           Round             78        PTH        0.00inch (0.00mm)
+T4      126mil (3.2mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T5      120mil (3.048mm)        +/-10mil (0.254mm)                Slot              1         NPTH       0.00inch (0.00mm)
+T6      126mil (3.2mm)                                            Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              136
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5V Pin=Step-Down-3
+Added Pin To Net: NetName=E5V Pin=CN1-6
+Added Pin To Net: NetName=E5V Pin=Step-Down-3
+Added Net: Name=E5V
+Added Member To Class: ClassName=Connector Member=Component CN1 Input Left
