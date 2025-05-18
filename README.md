@@ -61,6 +61,11 @@
 **10、杜邦线若干**
 
 
+**11、pcb打板说明**
+
+打板文件为Connector/GSX.PcbDoc，使用嘉立创打板。
+
+
 
 ## 演示视频：
 
@@ -85,5 +90,11 @@
 ### 姿态解算测试：
 
 链接：https://www.bilibili.com/video/BV1xe411i7fQ/
+
+
+
+
+
+
 
 
